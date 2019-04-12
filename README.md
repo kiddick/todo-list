@@ -34,5 +34,7 @@ vue create your-app-name
 
 
 vetur extension -- https://marketplace.visualstudio.com/items?itemName=octref.vetur
+
 Emmet > Balance (outward)
+
 Type the tag name (without starting <) then press Tab
